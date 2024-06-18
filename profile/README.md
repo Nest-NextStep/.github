@@ -18,7 +18,7 @@ Irene Guntur, an Educational Psychologist from Integrity Development Flexibility
 | :----------------: | :----------------------------------------------------------------: | :--------------------------------: |
 |  Cloud Computing   |    [Github Repo](https://github.com/Nest-NextStep/nest-backend)    | Java Script, Google Cloud Platform |
 |  Machine Learning  | [Github Repo](https://github.com/Nest-NextStep/nest-backend-model) |    Tensorflow, Jupyter Notebook    |
-| Mobile Development |    [Github Repo](https://github.com/Nest-NextStep/nest-android)    |               Kotlin               |
+| Mobile Development |    [Github Repo](https://github.com/Nest-NextStep/nest-android)    |       Kotlin, Android Studio       |
 
 ## Team Members
 
